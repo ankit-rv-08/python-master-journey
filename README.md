@@ -21,10 +21,24 @@ This script covers the absolute basics of Python:
 
 
 ## 🚩 Hour 2: Control Flow – If/Else Statements
+
 [hour2_control_flow.py](hour2_control_flow.py)
+
 - if, elif, else statements
 - Comparison operators
 - Indentation and code blocks
+
+
+---
+
+## 🚩 Hour 3: Loops – For and While
+
+[hour3_loops.py](hour3_loops.py)
+
+- for loops, while loops
+- range, iteration
+- Summing numbers with loops
+
 
   ## 📫 Contact
 
