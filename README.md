@@ -16,9 +16,17 @@ This script covers the absolute basics of Python:
 - Output formatting with f-strings
 
 
+---
 
 
-## 📫 Contact
+
+## 🚩 Hour 2: Control Flow – If/Else Statements
+[hour2_control_flow.py](hour2_control_flow.py)
+- if, elif, else statements
+- Comparison operators
+- Indentation and code blocks
+
+  ## 📫 Contact
 
 - [LinkedIn](https://linkedin.com/in/your-link)
 - [Email] : [ ankith8804@gmail.com ]
