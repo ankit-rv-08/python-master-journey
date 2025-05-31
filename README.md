@@ -1,6 +1,7 @@
 # python-master-journey
 
-Welcome to my step-by-step Python mastery repo. Each hour, I tackle a new concept or project, building up my skills for placements, AI, and freelancing.
+Welcome to my Python learning journey, where I’m building a solid foundation for software engineering, AI, and automation.
+
 
 ---
 
@@ -8,11 +9,12 @@ Welcome to my step-by-step Python mastery repo. Each hour, I tackle a new concep
 
 [hour1_python_basics.py](hour1_python_basics.py)
 
-- User input and output
-- f-strings
-- Type conversion
+This script covers the absolute basics of Python:
+- Taking user input (name and age)
+- Using variables and basic data types (`str`, `int`)
+- Type conversion (`input()` always returns a string)
+- Output formatting with f-strings
 
----
 
 
 
