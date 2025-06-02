@@ -40,6 +40,17 @@ This script covers the absolute basics of Python:
 - Summing numbers with loops
 
 
+---
+
+
+## 🚩 Hour 4: Functions – Writing, Calling, and Reusing Code
+[hour4_functions.py](hour4_functions.py)
+- Defined and called custom functions in Python
+- Used parameters and return values
+- Practiced writing docstrings for documentation
+- Refactored the sum-to-N script to use a function
+
+
   ## 📫 Contact
 
 - [LinkedIn](https://linkedin.com/in/your-link)
