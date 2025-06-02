@@ -50,6 +50,15 @@ This script covers the absolute basics of Python:
 - Practiced writing docstrings for documentation
 - Refactored the sum-to-N script to use a function
 
+---
+
+## 🚩 Hour 5: Lists – Creation, Manipulation, and Max-Finding
+[hour5_lists.py](hour5_lists.py)
+- Created and manipulated Python lists
+- Used list comprehensions
+- Iterated to find the largest value
+
+
 
   ## 📫 Contact
 
