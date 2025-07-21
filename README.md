@@ -58,6 +58,11 @@ This script covers the absolute basics of Python:
 - Used list comprehensions
 - Iterated to find the largest value
 
+---
+##🚩 Hour 6: Dictionaries - CRUD
+[hour6_Dictionaries](hour6_Dictionaries)
+
+
 
 
   ## 📫 Contact
