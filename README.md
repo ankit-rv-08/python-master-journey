@@ -65,9 +65,9 @@ This script covers the absolute basics of Python:
 - Used dictionaries for word frequency, duplicate removal.
 
 **Scripts:**
-- `hour6_dictionary_basics.py`(hour6_dictionary_basics.py)
-- `word_frequency_counter.py`(word_frequency_counter.py)
-- `duplicate_remover.py`(duplicate_remover.py)
+- `hour6_dictionary_basics.py`[](hour6_dictionary_basics.py)
+- `word_frequency_counter.py`[](word_frequency_counter.py)
+- `duplicate_remover.py`[](duplicate_remover.py)
 
 **Key Learnings:**
 - CRUD ops on dicts
