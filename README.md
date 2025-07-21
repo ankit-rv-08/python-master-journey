@@ -60,7 +60,19 @@ This script covers the absolute basics of Python:
 
 ---
 ##🚩 Hour 6: Dictionaries - CRUD
-[hour6_Dictionaries](hour6_Dictionaries)
+**Hour 1 Focus:**
+- Created, read, updated, deleted dict entries.
+- Used dictionaries for word frequency, duplicate removal.
+
+**Scripts:**
+- `hour6_dictionary_basics.py`
+- `word_frequency_counter.py`
+- `duplicate_remover.py`
+
+**Key Learnings:**
+- CRUD ops on dicts
+- `.get()` for safe key access
+- Practical use: fast lookups, aggregation, uniqueness
 
 
 
