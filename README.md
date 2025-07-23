@@ -74,6 +74,11 @@ This script covers the absolute basics of Python:
 - `.get()` for safe key access
 - Practical use: fast lookups, aggregation, uniqueness
 
+  ## Hour 2 – Looping, Updating, Removing
+- Practiced looping: for key, for value, for key-value (.items()).
+- Used update(), del, pop(), popitem(), clear().
+- Extracted keys with dict comprehension.
+
 
 
 
