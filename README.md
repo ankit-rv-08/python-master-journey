@@ -79,6 +79,29 @@ This script covers the absolute basics of Python:
 - Used update(), del, pop(), popitem(), clear().
 - Extracted keys with dict comprehension.
 
+  Hour 3 – Nested Dictionaries & Built-in Methods
+Focus Areas:
+
+Nested dictionary structure for real-world data
+
+Applying built-in Python functions for analytics and insight
+
+Membership checks and dictionary comprehension
+
+Sorting and extracting complex data
+
+🚩 Scripts Featured in This Module
+hour3_nested_dicts_and_builtins.py
+
+Creating and traversing nested dictionaries
+
+Using len(), min(), max(), sum(), all(), any(), and sorted()
+
+Realistic data aggregation from nested structures
+
+Examples of transforming and filtering with dict comprehensions
+
+
 
 
 
