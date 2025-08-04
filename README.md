@@ -113,7 +113,7 @@ Examples of transforming and filtering with dict comprehensions
 - Practice scripts focus on clean, idiomatic Python for interviews and production
 
 ---
-## Hour 6 – Tuples and Sets
+## Hour 8 – Tuples and Sets
 [hour8_tuples_sets.py](collections/hour8_tuples_sets.py)
 
 - Tuples: immutable, ordered collections used for fixed sequences and dict keys.
