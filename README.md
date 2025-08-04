@@ -112,6 +112,15 @@ Examples of transforming and filtering with dict comprehensions
 - Performed common built-in list operations: sorting, summing, length
 - Practice scripts focus on clean, idiomatic Python for interviews and production
 
+---
+## Hour 6 – Tuples and Sets
+[hour8_tuples_sets.py](collections/hour8_tuples_sets.py)
+
+- Tuples: immutable, ordered collections used for fixed sequences and dict keys.
+- Sets: unordered, unique collections with fast membership tests.
+- Used set operations (union, intersection, difference) to solve common data tasks.
+
+
 
 
 
