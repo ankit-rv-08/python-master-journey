@@ -91,7 +91,9 @@ Membership checks and dictionary comprehension
 Sorting and extracting complex data
 
 🚩 Scripts Featured in This Module
-hour3_nested_dicts_and_builtins.py
+
+
+  hour3_nested_dicts_and_builtins.py
 
 Creating and traversing nested dictionaries
 
@@ -100,6 +102,15 @@ Using len(), min(), max(), sum(), all(), any(), and sorted()
 Realistic data aggregation from nested structures
 
 Examples of transforming and filtering with dict comprehensions
+
+---
+## Hour 7 – List Comprehensions & Built-In Functions
+[lists/hour7_list_comprehensions.py](lists/hour7_list_comprehensions.py)
+
+- Used list comprehensions for filtering and transforming lists
+- Used `map()`, `filter()`, and `enumerate()` for functional-style operations
+- Performed common built-in list operations: sorting, summing, length
+- Practice scripts focus on clean, idiomatic Python for interviews and production
 
 
 
