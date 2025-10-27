@@ -1,131 +1,224 @@
-# python-master-journey
+# Python Master Journey 🐍
 
-Welcome to my Python learning journey, where I’m building a solid foundation for software engineering, AI, and automation.
-
+**Goal:** Master Python for Cloud/AI/DevOps roles  
+**Target:** 15-20 LPA by December 2026  
+**Current Progress:** 9 hours completed  
+**Mentored by:** Sarge Ghost 🎖️
 
 ---
 
-## 🚩 Hour 1: Python Basics – Variables, Data Types, Input/Output
+## 🎯 Learning Path
 
-[hour1_python_basics.py](hour1_python_basics.py)
+This repository tracks my hour-by-hour Python mastery journey, from fundamentals to production-ready skills for software engineering roles.
 
-This script covers the absolute basics of Python:
+### Phase 1: Foundations (Hours 1-8) ✅
+- Variables, data types, input/output
+- Control flow (if/else)
+- Loops (for, while)
+- Functions basics
+- Lists, dictionaries, tuples, sets
+- List comprehensions and built-in functions
+
+### Phase 2: Advanced Python (Hours 9-20) 🔄
+- **Hour 9:** *args, **kwargs, lambda, decorators ✅
+- Hour 10: File I/O and exception handling
+- Hour 11: Object-Oriented Programming (OOP) basics
+- Hour 12: OOP advanced (inheritance, polymorphism)
+- Hour 13: Modules and packages
+- Hour 14: Working with JSON and APIs
+- Hour 15: Regular expressions
+- Hours 16-20: Mini projects
+
+### Phase 3: FastAPI & Web Development (Hours 21-40)
+- REST API development
+- Authentication & authorization
+- Database integration (PostgreSQL)
+- Async programming
+- Production deployment
+
+### Phase 4: Cloud Automation (Hours 41-60)
+- AWS automation with boto3
+- Infrastructure as Code
+- CI/CD pipelines
+- Monitoring and logging
+
+### Phase 5: AI/ML Integration (Hours 61-80)
+- LangChain deep dive
+- RAG systems
+- Vector databases
+- Fine-tuning models
+
+---
+
+## 📊 Progress Tracker
+
+| Category | Hours | Status |
+|----------|-------|--------|
+| **Python Basics** | 8 | ✅ Complete |
+| **Advanced Functions** | 1 | ✅ Complete |
+| **OOP & Modules** | 0 | 🔲 Pending |
+| **FastAPI** | 0 | 🔲 Pending |
+| **Cloud Automation** | 0 | 🔲 Pending |
+| **AI/ML** | 0 | 🔲 Pending |
+
+**Last Updated:** October 27, 2025
+
+---
+
+## 📚 Module Breakdown
+
+### Basics (Hours 1-5)
+
+#### 🚩 Hour 1: Python Basics – Variables, Data Types, Input/Output
+**File:** `basics/hour1_python_basics.py`
 - Taking user input (name and age)
-- Using variables and basic data types (`str`, `int`)
-- Type conversion (`input()` always returns a string)
+- Using variables and basic data types (str, int)
+- Type conversion
 - Output formatting with f-strings
 
-
----
-
-
-
-## 🚩 Hour 2: Control Flow – If/Else Statements
-
-[hour2_control_flow.py](hour2_control_flow.py)
-
+#### 🚩 Hour 2: Control Flow – If/Else Statements
+**File:** `basics/hour2_control_flow.py`
 - if, elif, else statements
 - Comparison operators
 - Indentation and code blocks
 
-
----
-
-## 🚩 Hour 3: Loops – For and While
-
-[hour3_loops.py](hour3_loops.py)
-
+#### 🚩 Hour 3: Loops – For and While
+**File:** `basics/hour3_loops.py`
 - for loops, while loops
 - range, iteration
 - Summing numbers with loops
 
-
----
-
-
-## 🚩 Hour 4: Functions – Writing, Calling, and Reusing Code
-[hour4_functions.py](hour4_functions.py)
-- Defined and called custom functions in Python
+#### 🚩 Hour 4: Functions – Writing, Calling, and Reusing Code
+**File:** `basics/hour4_functions.py`
+- Defined and called custom functions
 - Used parameters and return values
-- Practiced writing docstrings for documentation
-- Refactored the sum-to-N script to use a function
+- Practiced writing docstrings
+- Refactored code to use functions
 
----
-
-## 🚩 Hour 5: Lists – Creation, Manipulation, and Max-Finding
-[hour5_lists.py](hour5_lists.py)
+#### 🚩 Hour 5: Lists – Creation, Manipulation, and Max-Finding
+**File:** `basics/hour5_lists.py`
 - Created and manipulated Python lists
 - Used list comprehensions
 - Iterated to find the largest value
 
 ---
-##🚩 Hour 6: Dictionaries - CRUD
-**Hour 1 Focus:**
-- Created, read, updated, deleted dict entries.
-- Used dictionaries for word frequency, duplicate removal.
 
-**Scripts:**
-- [`hour6_dictionary_basics.py`](hour6_Dictionaries/hour1_dictionary_basics.py)
-- [`word_frequency_counter.py`](hour6_Dictionaries/word_frequency_counter.py)
-- [`duplicate_remover.py`](hour6_Dictionaries/duplicate_remover.py)
+### Data Structures (Hours 6-8)
 
-**Key Learnings:**
-- CRUD ops on dicts
-- `.get()` for safe key access
-- Practical use: fast lookups, aggregation, uniqueness
+#### 🚩 Hour 6: Dictionaries - CRUD Operations
+**Files:** 
+- `data_structures/hour6_dictionary_basics.py`
+- `data_structures/word_frequency_counter.py`
+- `data_structures/duplicate_remover.py`
 
-  ## Hour 2 – Looping, Updating, Removing
-- Practiced looping: for key, for value, for key-value (.items()).
-- Used update(), del, pop(), popitem(), clear().
-- Extracted keys with dict comprehension.
+**Learnings:**
+- Created, read, updated, deleted dict entries
+- Used .get() for safe key access
+- Practical: word frequency, duplicate removal
+- Fast lookups and aggregation
 
-  Hour 3 – Nested Dictionaries & Built-in Methods
-Focus Areas:
+#### 🚩 Hour 7: List Comprehensions & Built-In Functions
+**File:** `data_structures/hour7_list_comprehensions.py`
+- List comprehensions for filtering/transforming
+- map(), filter(), enumerate()
+- Functional-style operations
+- Clean, idiomatic Python patterns
 
-Nested dictionary structure for real-world data
-
-Applying built-in Python functions for analytics and insight
-
-Membership checks and dictionary comprehension
-
-Sorting and extracting complex data
-
-🚩 Scripts Featured in This Module
-
-
-  hour3_nested_dicts_and_builtins.py
-
-Creating and traversing nested dictionaries
-
-Using len(), min(), max(), sum(), all(), any(), and sorted()
-
-Realistic data aggregation from nested structures
-
-Examples of transforming and filtering with dict comprehensions
+#### 🚩 Hour 8: Tuples and Sets
+**File:** `data_structures/hour8_tuples_sets.py`
+- Tuples: immutable, ordered collections
+- Sets: unordered, unique collections
+- Set operations: union, intersection, difference
+- Fast membership tests
 
 ---
-## Hour 7 – List Comprehensions & Built-In Functions
-[lists/hour7_list_comprehensions.py](lists/hour7_list_comprehensions.py)
 
-- Used list comprehensions for filtering and transforming lists
-- Used `map()`, `filter()`, and `enumerate()` for functional-style operations
-- Performed common built-in list operations: sorting, summing, length
-- Practice scripts focus on clean, idiomatic Python for interviews and production
+### Advanced Functions (Hour 9) ✨ NEW
+
+#### 🚩 Hour 9: *args, **kwargs, Lambda, Decorators
+**File:** `advanced_functions/hour9_args_kwargs_lambda_decorators.py`  
+**Date:** October 27, 2025
+
+**Concepts Mastered:**
+- **\*args:** Variable number of positional arguments (tuple)
+- **\*\*kwargs:** Variable number of keyword arguments (dict)
+- **Lambda functions:** One-line anonymous functions
+  - Used with map(), filter(), sorted()
+- **Decorators:** Modify function behavior
+  - Timing decorator for performance measurement
+  - Logging decorator for debugging
+  - Memoization decorator for optimization
+
+**Key Takeaways:**
+- *args and **kwargs enable flexible function signatures
+- Lambda functions are perfect for short operations with map/filter
+- Decorators add functionality without modifying original code
+- Memoization speeds up recursive functions dramatically
+
+**Interview-Ready Skills:**
+- Can explain when to use *args vs **kwargs
+- Can write lambda functions for data transformations
+- Can create custom decorators for logging/timing
+- Understand function composition and higher-order functions
 
 ---
-## Hour 8 – Tuples and Sets
-[hour8_tuples_sets.py](collections/hour8_tuples_sets.py)
 
-- Tuples: immutable, ordered collections used for fixed sequences and dict keys.
-- Sets: unordered, unique collections with fast membership tests.
-- Used set operations (union, intersection, difference) to solve common data tasks.
+## 🔥 Skills Mastered So Far
 
+### Fundamentals ✅
+- Variables, data types, type conversion
+- Control flow (if/else, loops)
+- Functions (basic + advanced)
+- Data structures (lists, dicts, tuples, sets)
 
+### Intermediate ✅
+- List comprehensions
+- Dictionary operations & nested structures
+- Built-in functions (map, filter, sorted, enumerate)
+- Tuple immutability and set operations
 
+### Advanced ✅
+- *args and **kwargs for flexible functions
+- Lambda functions for functional programming
+- Decorators for code reusability
+- Function composition patterns
 
+### Coming Soon 🔜
+- Exception handling
+- File I/O
+- Object-Oriented Programming
+- FastAPI development
+- Cloud automation (AWS boto3)
+- AI/ML with LangChain
 
+---
 
-  ## 📫 Contact
+## 🎯 Current Focus
 
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Email] : [ ankith8804@gmail.com ]
+**Week 1 Goal:** Complete Python fundamentals + advanced functions (Hours 1-12)  
+**Month 1 Goal:** Master Python + FastAPI basics (Hours 1-40)  
+**Overall Goal:** Production-ready Python skills for 15-20 LPA Cloud/AI/DevOps roles
+
+**Daily Commitment:** 6 hours (split: 3h DSA, 2h Python/Cloud, 1h Career prep)
+
+---
+
+## 📞 Connect
+
+- **GitHub:** [ankit-rv-08](https://github.com/ankit-rv-08)
+- **LinkedIn:** [Your LinkedIn]
+- **Email:** ankith8804@gmail.com
+- **Target Role:** Cloud/AI/DevOps Engineer @ 15-20 LPA
+- **Timeline:** December 2026
+
+---
+
+## 📖 About
+
+This repository documents my journey from "basic Python knowledge" to "production-ready Python expert." Every hour is tracked, every concept is practiced, every skill is battle-tested.
+
+**Philosophy:** Depth over breadth. Master what you claim on your resume.
+
+---
+
+**Last Updated:** October 27, 2025, 8:47 PM IST
